@@ -1,0 +1,14 @@
+C:\Users\mcihm\Desktop\github\Final\Gui template\AmongUsMemeryTemplate\AmongUsMemeryTemplate\bin\Debug\AmongUsMemeryTemplate.exe.config
+C:\Users\mcihm\Desktop\github\Final\Gui template\AmongUsMemeryTemplate\AmongUsMemeryTemplate\bin\Debug\AmongUsMemeryTemplate.exe
+C:\Users\mcihm\Desktop\github\Final\Gui template\AmongUsMemeryTemplate\AmongUsMemeryTemplate\bin\Debug\AmongUsMemeryTemplate.pdb
+C:\Users\mcihm\Desktop\github\Final\Gui template\AmongUsMemeryTemplate\AmongUsMemeryTemplate\obj\Debug\AmongUsMemeryTemplate.csprojAssemblyReference.cache
+C:\Users\mcihm\Desktop\github\Final\Gui template\AmongUsMemeryTemplate\AmongUsMemeryTemplate\obj\Debug\AmongUsMemeryTemplate.Form1.resources
+C:\Users\mcihm\Desktop\github\Final\Gui template\AmongUsMemeryTemplate\AmongUsMemeryTemplate\obj\Debug\AmongUsMemeryTemplate.Properties.Resources.resources
+C:\Users\mcihm\Desktop\github\Final\Gui template\AmongUsMemeryTemplate\AmongUsMemeryTemplate\obj\Debug\AmongUsMemeryTemplate.csproj.GenerateResource.cache
+C:\Users\mcihm\Desktop\github\Final\Gui template\AmongUsMemeryTemplate\AmongUsMemeryTemplate\obj\Debug\AmongUsMemeryTemplate.csproj.CoreCompileInputs.cache
+C:\Users\mcihm\Desktop\github\Final\Gui template\AmongUsMemeryTemplate\AmongUsMemeryTemplate\obj\Debug\AmongUsMemeryTemplate.exe
+C:\Users\mcihm\Desktop\github\Final\Gui template\AmongUsMemeryTemplate\AmongUsMemeryTemplate\obj\Debug\AmongUsMemeryTemplate.pdb
+C:\Users\mcihm\Desktop\github\Final\Gui template\AmongUsMemeryTemplate\AmongUsMemeryTemplate\bin\Debug\AmongUsMemory.dll
+C:\Users\mcihm\Desktop\github\Final\Gui template\AmongUsMemeryTemplate\AmongUsMemeryTemplate\bin\Debug\Memory.dll
+C:\Users\mcihm\Desktop\github\Final\Gui template\AmongUsMemeryTemplate\AmongUsMemeryTemplate\bin\Debug\AmongUsMemory.pdb
+C:\Users\mcihm\Desktop\github\Final\Gui template\AmongUsMemeryTemplate\AmongUsMemeryTemplate\obj\Debug\AmongUsMemeryTemplate.csproj.CopyComplete
